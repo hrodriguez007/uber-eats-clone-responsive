@@ -1,10 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ### This is OK Eats, a Responsive Food Delivery Website using React.js, CSS, and HTML.
 
-[Click here to see it live](https://hrodriguez007.github.io/travel-responsive-website/)
+[Click here to see it live](https://hrodriguez007.github.io/uber-eats-clone-responsive/)
 
 ## Available Scripts
 
