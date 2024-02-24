@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/uber-eats-clone-react-tw/static/css/main.039730f4.css",
-    "main.js": "/uber-eats-clone-react-tw/static/js/main.fb8a619d.js",
-    "index.html": "/uber-eats-clone-react-tw/index.html",
-    "main.039730f4.css.map": "/uber-eats-clone-react-tw/static/css/main.039730f4.css.map",
-    "main.fb8a619d.js.map": "/uber-eats-clone-react-tw/static/js/main.fb8a619d.js.map"
+    "main.css": "/uber-eats-clone-responsive/static/css/main.039730f4.css",
+    "main.js": "/uber-eats-clone-responsive/static/js/main.fb8a619d.js",
+    "index.html": "/uber-eats-clone-responsive/index.html",
+    "main.039730f4.css.map": "/uber-eats-clone-responsive/static/css/main.039730f4.css.map",
+    "main.fb8a619d.js.map": "/uber-eats-clone-responsive/static/js/main.fb8a619d.js.map"
   },
   "entrypoints": [
     "static/css/main.039730f4.css",
